@@ -1,0 +1,182 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: DC 00 00 00
+# 
+name: Vol up
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: F4 00 00 00
+# 
+name: vol dn
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 74 00 00 00
+# 
+name: Mute
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: FC 00 00 00
+# 
+name: Dwn
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 46 00 00 00
+#
+name: Back
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 26 00 00 00
+# 
+name: Select
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 2F 00 00 00
+# 
+name: pause
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: B3 00 00 00
+# 
+name: Stop
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 4D 00 00 00
+# 
+name: Prev Chp
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 34 00 00 00
+# 
+name: NxtChp
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: B4 00 00 00
+# 
+name: Repeat
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 29 00 00 00
+# 
+name: Fast
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 38 00 00 00
+# 
+name: Rewind
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: B8 00 00 00
+# 
+name: Info
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 3C 00 00 00
+# 
+name: Aux
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: D1 00 00 00
+# 
+name: unk2D 
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 2D 00 00 00
+# 
+name: unk6D
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 6D 00 00 00
+# 
+name: unk84
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 84 00 00 00
+# 
+name: unk8D
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 8D 00 00 00
+# 
+name: unk94
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 94 00 00 00
+# 
+name: unk9D
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 9D 00 00 00
+# 
+name: unkA4
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: A4 00 00 00
+# 
+name: unkAD
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: AD 00 00 00
+# 
+name: unkCB
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: CB 00 00 00
+# 
+name: unkCD
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: CD 00 00 00
+# 
+name: CH5.1
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: DA 00 00 00
+# 
+name: unkEC
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: EC 00 00 00
+# 
+name: unkF8
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: F8 00 00 00
+# 
+name: unk1C
+type: parsed
+protocol: RCA
+address: 03 00 00 00
+command: 1C 00 00 00
